@@ -1,4 +1,4 @@
 # Smart-Pioneer-Services-v23
 المقر الرسمي لخدمات الرواد الذكية لدعم إجماع شبكة باي ببروتوكول V23. إدارة أسامة وهبة فتوح - السنبلاوين
 
-e370efa28acad0fa146305f933e40ac8ef61c13c92865d8f381656b5a7d4ec5873db5c60c4038b3a3aa2effa680b6fa83602ed7a22c4e9ac41a22c1be7d539cd
+https://ccfcecee0241.pinet.com
